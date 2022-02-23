@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\Converter\Converter.ConsoleApp\bin\Debug\netcoreapp3.1\Converter.ConsoleApp.exe
+C:\Users\Acer\source\repos\Converter\Converter.ConsoleApp\bin\Debug\netcoreapp3.1\Converter.ConsoleApp.deps.json
+C:\Users\Acer\source\repos\Converter\Converter.ConsoleApp\bin\Debug\netcoreapp3.1\Converter.ConsoleApp.runtimeconfig.json
+C:\Users\Acer\source\repos\Converter\Converter.ConsoleApp\bin\Debug\netcoreapp3.1\Converter.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Converter\Converter.ConsoleApp\bin\Debug\netcoreapp3.1\Converter.ConsoleApp.dll
+C:\Users\Acer\source\repos\Converter\Converter.ConsoleApp\bin\Debug\netcoreapp3.1\Converter.ConsoleApp.pdb
+C:\Users\Acer\source\repos\Converter\Converter.ConsoleApp\bin\Debug\netcoreapp3.1\Converter.Models.dll
+C:\Users\Acer\source\repos\Converter\Converter.ConsoleApp\bin\Debug\netcoreapp3.1\Converter.Models.pdb
+C:\Users\Acer\source\repos\Converter\Converter.ConsoleApp\obj\Debug\netcoreapp3.1\Converter.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Converter\Converter.ConsoleApp\obj\Debug\netcoreapp3.1\Converter.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Converter\Converter.ConsoleApp\obj\Debug\netcoreapp3.1\Converter.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Converter\Converter.ConsoleApp\obj\Debug\netcoreapp3.1\Converter.ConsoleApp.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Converter\Converter.ConsoleApp\obj\Debug\netcoreapp3.1\Converter.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Converter\Converter.ConsoleApp\obj\Debug\netcoreapp3.1\Converter.ConsoleApp.dll
+C:\Users\Acer\source\repos\Converter\Converter.ConsoleApp\obj\Debug\netcoreapp3.1\Converter.ConsoleApp.pdb
+C:\Users\Acer\source\repos\Converter\Converter.ConsoleApp\obj\Debug\netcoreapp3.1\Converter.ConsoleApp.genruntimeconfig.cache

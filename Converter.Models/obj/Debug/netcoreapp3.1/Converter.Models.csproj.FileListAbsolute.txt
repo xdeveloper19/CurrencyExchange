@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Converter\Converter.Models\bin\Debug\netcoreapp3.1\Converter.Models.deps.json
+C:\Users\Acer\source\repos\Converter\Converter.Models\bin\Debug\netcoreapp3.1\Converter.Models.dll
+C:\Users\Acer\source\repos\Converter\Converter.Models\bin\Debug\netcoreapp3.1\Converter.Models.pdb
+C:\Users\Acer\source\repos\Converter\Converter.Models\obj\Debug\netcoreapp3.1\Converter.Models.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Converter\Converter.Models\obj\Debug\netcoreapp3.1\Converter.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Converter\Converter.Models\obj\Debug\netcoreapp3.1\Converter.Models.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Converter\Converter.Models\obj\Debug\netcoreapp3.1\Converter.Models.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Converter\Converter.Models\obj\Debug\netcoreapp3.1\Converter.Models.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Converter\Converter.Models\obj\Debug\netcoreapp3.1\Converter.Models.dll
+C:\Users\Acer\source\repos\Converter\Converter.Models\obj\Debug\netcoreapp3.1\Converter.Models.pdb
